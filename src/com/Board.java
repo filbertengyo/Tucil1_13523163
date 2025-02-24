@@ -85,7 +85,7 @@ public class Board
             {
                 if (shape[i][j] != '.') 
                 {
-                    board[row + i][col + j] = blockType;
+                    board[row + i][col + j] = shape[i][j];
                 }
             }
         }

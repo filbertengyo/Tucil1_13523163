@@ -1,10 +1,10 @@
 Bentuk Akhir Papan:
-A A H B J J I I K K K 
-A H H B B J C I I K K 
-A A H H B B C C C C E 
-L L L D D F G G G G E 
-L D D D F F F G E E E 
+C C G W B B Q Q P P P 
+C G G W W B L Q Q P P 
+C C G G W W L L L L C 
+N N N Z Z T M M M M C 
+N Z Z Z T T T M C C C 
 
 
-Waktu Pencarian: 889033.161 ms
+Waktu Pencarian: 851056.513 ms
 Jumlah Iterasi: 125470074
