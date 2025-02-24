@@ -36,7 +36,7 @@ Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
    ```
 2. Ubah directory:
    ```shell
-   cd tucil1_13523163
+   cd Tucil1_13523163
    ```
 3. Compile seluruh program:
    ```shell
