@@ -1,0 +1,10 @@
+Bentuk Akhir Papan:
+A B C D E F 
+G H I J K L 
+M N O P Q R 
+S T U V W X 
+Y Z Z Z Z Z 
+
+
+Waktu Pencarian: 15.573 ms
+Jumlah Iterasi: 26

@@ -46,7 +46,7 @@ public class Image
         if (!isSolutionFound) 
         {
             g.setColor(Color.RED);
-            g.drawString("Tidak ada solusi ditemukan!", 10, imageHeight - 60);
+            g.drawString("Tidak ada solusi ditemukan!s", 10, imageHeight - 60);
         }
 
         Path filePath = Paths.get("test", fileName + ".png");

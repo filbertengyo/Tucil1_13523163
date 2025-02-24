@@ -1,0 +1,8 @@
+Bentuk Akhir Papan:
+. . . . 
+. . . . 
+. . . . 
+
+
+Waktu Pencarian: 5.033 ms
+Jumlah Iterasi: 1853

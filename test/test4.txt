@@ -1,0 +1,10 @@
+Bentuk Akhir Papan:
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+
+Waktu Pencarian: 1.127 ms
+Jumlah Iterasi: 4
