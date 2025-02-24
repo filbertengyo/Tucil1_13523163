@@ -32,7 +32,7 @@ Prasyarat untuk menjalankan program ini adalah Java Programming Language.
 Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
 1. clone repositori ini:
    ```shell
-   git clone https://github.com/filbertengyo/tucil1_13523163
+   git clone https://github.com/filbertengyo/Tucil1_13523163
    ```
 2. Ubah directory:
    ```shell
